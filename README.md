@@ -19,4 +19,4 @@ Nettuno, Rome — 2022
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/emanuele-bruni-02g10m03/) · [Email](mailto:lele.bruni2003@gmail.com) · [My CV](./assets/CV_Emanuele_Bruni.pdf)
+[LinkedIn](https://www.linkedin.com/in/emanuele-bruni-02g10m03/) · [Email](mailto:lele.bruni2003@gmail.com) · [My CV](./assets/Emanuele_Bruni_CV.pdf)
